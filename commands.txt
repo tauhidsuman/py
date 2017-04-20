@@ -1,0 +1,13 @@
+GIT commands-
+
+git add [file..]
+-Adds the specified files to staging
+
+git stage
+-Adds all changed files to staging
+
+git commit [message]
+-Commits all staged files with the message/comment
+
+git push
+-Pushes to remote

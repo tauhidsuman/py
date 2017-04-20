@@ -20,7 +20,12 @@ def stats():
 		short.sort()
 		s.append(sum(short[1:]))
 	s.sort()
+	x = 0
+	for i in s:
+		x += (i // 2) - 5
 	print(s)
+	print("Total bonus of %i" %x)
+	return x
 
 while True:
 	inp = input('Enter the dice roll (q to quit, s for stats): ')
@@ -28,6 +33,10 @@ while True:
 		exit()
 	if inp.lower() == 's':
 		stats()
+		continue
+	if inp.lower() == 'r':
+		while stats() != 5:
+			pass
 		continue
 	s = inp.split('d')
 	if len(s) < 2:
