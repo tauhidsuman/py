@@ -1,0 +1,91 @@
+elemental
+ yuan-ti)
+undead (shapechanger)
+humanoid
+celestial
+swarm of Tiny beasts
+humanoid (gnome)
+fey
+humanoid (grung)
+humanoid (grimlock)
+fiend
+ Volo's Guide
+humanoid (thri-kreen)
+humanoid (firenewt)
+humanoid (half-dragon)
+ out of the abyss
+giant (hill giant)
+humanoid (shapechanger)
+humanoid (human)
+fiend (demon)
+humanoid (elf)
+humanoid (xvart)
+ storm kings thunder
+undead
+humanoid (gith)
+humanoid (mongrelfolk)
+humanoid (yuan-ti)
+humanoid (gnome
+humanoid (bullywug)
+humanoid (Turami human)
+humanoid (orc)
+monstrosity (titan)
+giant
+fiend (shapechanger)
+humanoid (strongheart halfling)
+humanoid (Damaran human)
+ tyranny of dragons
+fiend (yugoloth)
+giant (fire giant)
+humanoid (gnoll)
+humanoid (water genasi)
+monstrosity (shapechanger)
+humanoid (Illuskan human)
+humanoid (kobold)
+humanoid (half-black dragon)
+celestial (titan)
+humanoid (Shou human)
+humanoid (Illuskan humanoid)
+beast
+humanoid (Tethyrian human)
+humanoid (human
+humanoid (fire genasi)
+humanoid (dwarf)
+humanoid (sahuagin)
+giant (cloud giant)
+aberration (shapechanger)
+humanoid (lizardfolk)
+humanoid (high elf)
+humanoid (Chondathan human)
+humanoid (merfolk)
+humanoid (half-elf)
+ monster manual
+humanoid (troglodyte)
+plant
+humanoid (halfling)
+humanoid (earth genasi)
+ elemental evil
+aberration
+ lost mine of phandelver
+humanoid (derro)
+humanoid (kuo-toa)
+monstrosity (shapechanger
+ shapechanger)
+ curse of strahd
+dragon
+giant (storm giant)
+humanoid (shield dwarf)
+humanoid (goblinoid)
+ orc)
+giant (frost giant)
+humanoid (any race)
+humanoid (kenku)
+humanoid (aarakocra)
+giant (stone giant)
+ooze
+humanoid (tiefling)
+monstrosity
+humanoid (quaggoth)
+construct
+fiend (devil)
+fiend (demon
