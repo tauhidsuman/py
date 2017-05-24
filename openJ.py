@@ -22,7 +22,7 @@ class Data:
 			if name.lower() in val['name'].lower():
 				results.append(val)
 		return results
-				
+
 
 for x in Data().find_spell("fire"):
 	print(x['name'])

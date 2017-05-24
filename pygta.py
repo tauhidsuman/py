@@ -1,8 +1,9 @@
 import numpy as np
-from PIL import ImageGrab
+#from PIL import ImageGrab
+import pyscreenshot as ImageGrab
 import cv2
 import time
-import directkeys as dk
+#import directkeys as dk
 
 def draw_lines(img, lines):
     try: 

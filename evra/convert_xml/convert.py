@@ -8,7 +8,7 @@ dir_path = os.path.dirname(os.path.realpath(__file__))
 
 def debug_save(s):
 	"""Takes a string and saves it to debug.txt.
-		Really only used for taking data and giving it to me outside of runtime"""
+	   Really only used for taking data and giving it to me outside of runtime"""
 	with open(os.path.join(dir_path, 'debug.txt'), 'w') as out:
 		out.write(s)
 
@@ -67,7 +67,7 @@ def convert_beastiary():
 
 def patch_beastiary():
 	"""applies patches to fix shit in the converted json file"""
-	with open(os.path.join(dir_path, 'json/beastiary.json'), 'rb') as f:
+	with open(os.path.join(dir_path, 'json/beastiary.json'), 'r') as f:
 		data = json.load(f)
 	print('Beastiary~~File loaded for patching')
 	
